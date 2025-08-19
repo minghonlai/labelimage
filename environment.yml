@@ -1,0 +1,10 @@
+name: labelimage
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.18
+  - pyqt=5.15.9
+  - lxml=4.9.1
+  - pillow
+  - pip
