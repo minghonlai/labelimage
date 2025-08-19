@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.9.19
+  - python=3.11.9
   - pyqt=5.15.11
   - lxml=5.3.0
   - pillow=11.0.0
